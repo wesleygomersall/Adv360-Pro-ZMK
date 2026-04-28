@@ -1,5 +1,12 @@
 # Kinesis Advantage 360 Pro ZMK Config
 
+## WKG custom edits
+
+- Swap up and down arrows on right hand for normal and keypad modes
+- Make keypad only active while keypad button is held (default behavior is toggle on/off).
+- New layer 4 allows some mouse movement and clicks.
+- New layer 5 controls volume and skips tracks.
+
 ## Modifying the keymap
 
 [The ZMK documentation](https://zmk.dev/docs) covers both basic and advanced functionality and has a table of OS compatibility for keycodes. Please note that the RGB Underglow, Backlight and Power Management sections are not relevant to the Advantage 360 Pro's custom ZMK fork. For more information see [this note](#note)
