@@ -3,9 +3,9 @@
 ## WKG custom edits
 
 - Swap up and down arrows on right hand for normal and keypad modes
-- Make keypad only active while keypad button is held (default behavior is toggle on/off).
-- New layer 4 allows some mouse movement and clicks.
-- New layer 5 controls volume and skips tracks.
+- Make keypad only active while keypad button is held (default behavior is toggle on/off). Toggle with macro button 4.
+- New layer 4 controls volume and skips tracks. Access by holding macro 1.
+- New layer 5 allows some mouse movement, scrolling, and clicks. Access by holding macro 2.
 
 ## Modifying the keymap
 
